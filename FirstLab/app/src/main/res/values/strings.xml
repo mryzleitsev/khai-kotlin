@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">FirstLab</string>
+    <string name="write_your_text_into_box">Write your text into box</string>
 </resources>
